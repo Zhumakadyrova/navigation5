@@ -36,7 +36,7 @@ nav a:hover{
   background-color: aliceblue;
   color: black;
 }
-nav a:focus:{
+nav a:focus{
   border-bottom: 3px solid white;
 }
 input{
